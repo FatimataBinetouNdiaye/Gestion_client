@@ -1,0 +1,64 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url("tof.jpg");
+   
+     background-size: cover;
+    background-repeat: no-repeat;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+    font-size: 20px;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+}
+.contener{
+    max-width: 380px;
+    margin: auto;
+    margin-top: 10%;
+    background-color:rgba(0, 0, 0, 0.8);
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+    box-sizing: border-box;  
+  
+   }
+   input{
+      width: 100%;
+      margin: 10px 0;
+      outline: none;
+      background-color: transparent;
+      color: white;
+      padding: 10px 0;
+      font-size: 18px;
+      font-weight: bold;
+      box-sizing: border-box;
+      border: none;
+      border-bottom: 1px white solid;
+   }
+  .bel{
+      color: white;
+      text-align: center;
+      text-transform: capitalize;
+  }
+  button{
+    width: 88%;
+    border-radius:12px;
+    padding: 10px;
+    background-color: rgb(90, 120, 190);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    outline: none;
+    cursor: pointer;
+    margin: 30px 10px 0px 10px;
+}
+h2{
+    font-size:100px;
+    text-align: center;
+}
